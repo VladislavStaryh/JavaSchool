@@ -1,4 +1,4 @@
-package com.Lecture2;
+package Lecture2;
 
 public class Main {
 
