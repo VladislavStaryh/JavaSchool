@@ -1,7 +1,8 @@
 package Lecture2;
 
-public class Main {
+import Lecture2.Person;
 
+public class Main {
     public static void main(String[] args) {
         Person Jack = new Person(true, "Jack");
         Person Mary = new Person(false, "Mary");
