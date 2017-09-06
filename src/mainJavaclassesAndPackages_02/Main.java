@@ -1,6 +1,4 @@
-package Lecture2;
-
-import Lecture2.Person;
+package mainJavaclassesAndPackages_02;
 
 public class Main {
     public static void main(String[] args) {

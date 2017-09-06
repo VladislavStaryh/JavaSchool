@@ -1,4 +1,4 @@
-package Lecture3;
+package javaCollectionFramework_03;
 
 import java.io.FileNotFoundException;
 import java.util.*;
@@ -6,7 +6,7 @@ import java.io.*;
 
 public class Main2056 {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner in = new Scanner(new FileReader("C:\\Users\\VVS\\IdeaProjects\\JavaSchoolTasks\\src\\Lecture3\\in.txt"));
+        Scanner in = new Scanner(new FileReader("C:\\Users\\VVS\\IdeaProjects\\JavaSchoolTasks\\src\\javaCollectionFramework_03\\in.txt"));
         Map<String,Integer> map = new HashMap<>();
         while(in.hasNext()) {
             String str = in.next().toLowerCase();
@@ -30,7 +30,7 @@ public class Main2056 {
 
         FileWriter fw = null;
         try {
-            fw = new FileWriter("C:\\Users\\VVS\\IdeaProjects\\JavaSchoolTasks\\src\\Lecture3\\out.txt", false);
+            fw = new FileWriter("C:\\Users\\VVS\\IdeaProjects\\JavaSchoolTasks\\src\\javaCollectionFramework_03\\out.txt", false);
         } catch (IOException e) {
             e.printStackTrace();
         }

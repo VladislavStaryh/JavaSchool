@@ -1,4 +1,4 @@
-package Lecture2;
+package mainJavaclassesAndPackages_02;
 
 public class Person {
     private final boolean man;
