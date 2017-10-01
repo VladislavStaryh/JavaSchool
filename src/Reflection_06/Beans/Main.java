@@ -1,4 +1,4 @@
-package Reflection_06;
+package Reflection_06.Beans;
 
 public class Main {
     public static void main(String[] args) {

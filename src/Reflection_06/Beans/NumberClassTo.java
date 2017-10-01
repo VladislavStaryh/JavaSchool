@@ -1,4 +1,4 @@
-package Reflection_06;
+package Reflection_06.Beans;
 
 public class NumberClassTo {
     Number value;

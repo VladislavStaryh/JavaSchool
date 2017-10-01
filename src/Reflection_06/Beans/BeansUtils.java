@@ -1,4 +1,4 @@
-package Reflection_06;
+package Reflection_06.Beans;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
