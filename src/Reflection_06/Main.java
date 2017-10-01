@@ -17,5 +17,6 @@ public class Main {
         BeansUtils.assign(classTo2, classFrom);
         System.out.println("classTo2.value = " + classTo2.getValue());
 
+
     }
 }
