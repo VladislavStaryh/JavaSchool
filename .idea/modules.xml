@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayIterator/ArrayIterator.iml" filepath="$PROJECT_DIR$/ArrayIterator/ArrayIterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intro/Intro.iml" filepath="$PROJECT_DIR$/Intro/Intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSchoolTasks.iml" filepath="$PROJECT_DIR$/JavaSchoolTasks.iml" />
     </modules>
   </component>

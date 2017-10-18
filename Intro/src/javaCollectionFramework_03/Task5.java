@@ -2,10 +2,8 @@ package javaCollectionFramework_03;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Scanner;
-import java.util.Set;
 
 public class Task5 {
     public static void main(String[] args) throws FileNotFoundException {
