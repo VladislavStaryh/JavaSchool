@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/BuildTools/pom.xml" />
         <option value="$PROJECT_DIR$/JMM/pom.xml" />
         <option value="$PROJECT_DIR$/Sockets/pom.xml" />
+        <option value="$PROJECT_DIR$/Serialization/pom.xml" />
       </list>
     </option>
   </component>
