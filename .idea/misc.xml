@@ -4,6 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ArrayIterator/pom.xml" />
+        <option value="$PROJECT_DIR$/Streams/pom.xml" />
+        <option value="$PROJECT_DIR$/Multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/BuildTools/pom.xml" />
+        <option value="$PROJECT_DIR$/JMM/pom.xml" />
+        <option value="$PROJECT_DIR$/Sockets/pom.xml" />
       </list>
     </option>
   </component>

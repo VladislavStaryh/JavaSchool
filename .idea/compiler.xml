@@ -7,10 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ArrayIterator" />
+        <module name="BuildTools" />
+        <module name="JMM" />
+        <module name="Multithreading" />
+        <module name="Sockets" />
+        <module name="Streams" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ArrayIterator" target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="BuildTools" target="1.8" />
+      <module name="JMM" target="1.8" />
+      <module name="Multithreading" target="1.8" />
+      <module name="Sockets" target="1.8" />
+      <module name="Streams" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
